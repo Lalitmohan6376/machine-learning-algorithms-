@@ -1,6 +1,7 @@
 from sklearn.cluster import DBSCAN
 
-# sample data
+# sample data for DBSCAN
+
 X = [
     [1, 2], [2, 3], [2, 2],
     [8, 7], [8, 8], [25, 80]
