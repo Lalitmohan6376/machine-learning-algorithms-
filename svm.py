@@ -1,5 +1,6 @@
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
+import pandas as pd
 
 
 X = [[1,8],[2,7],[3,6],[4,6],[5,5],[6,5],[7,4],[8,3]]
@@ -11,4 +12,5 @@ model = SVC()
 
 model.fit(X_train,y_train)
 pre = model.predict([[1,10]])
+
 print(pre)
