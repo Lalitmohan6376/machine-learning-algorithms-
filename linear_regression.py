@@ -1,5 +1,6 @@
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
 
 #Example data (hours studied vs marks)
 X = [[1],[2],[3],[4],[5]]
@@ -12,4 +13,5 @@ model = LinearRegression()
 model.fit(X_train,y_train)
 
 pre = model.predict(X_test)
+
 print(pre[0])
