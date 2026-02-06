@@ -1,5 +1,6 @@
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
+import numpy as np
 
 # Data (0=fail,1=pass)
 X = [[1],[2],[3],[4],[5]]
@@ -12,4 +13,5 @@ model = LogisticRegression()
 model.fit(X_train,y_train)
 
 pre = model.predict([[2.22]])
+
 print(pre)
