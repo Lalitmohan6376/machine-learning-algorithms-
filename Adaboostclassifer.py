@@ -25,7 +25,7 @@ model.fit(X_train, y_train)
 
 # 5. Prediction
 y_pred = model.predict(X_test)
-
 # 6. Accuracy
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
+
