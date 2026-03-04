@@ -6,4 +6,5 @@ model = RandomForestRegressor(n_estimators=50,random_state=0)
 
 model.fit(X,y)
 pre = model.predict([[6]])
+
 print(pre)
