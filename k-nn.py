@@ -13,10 +13,8 @@ model.fit(X,y)
 def fun():
     pre =  model.predict([[48,72]])
     return pre
-
 result = fun()
 if result == 0:
     print("Blue")
 else:
-
     print("Red")
