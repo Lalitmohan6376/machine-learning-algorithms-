@@ -18,3 +18,4 @@ K-Means Clustering
 Principal Component Analysis (PCA)
 Gradient Descent
 etc...
+Thank you
