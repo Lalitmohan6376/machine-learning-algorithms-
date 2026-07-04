@@ -1,7 +1,6 @@
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
-#Data (Stduy hours, sleep hours) -> pass(1),fail(0)
 X = [[1,8],[2,7],[3,6],[4,6],[5,5],[6,5],[7,4],[8,3]]
 y = [0,0,0,1,1,1,1,1]
 
