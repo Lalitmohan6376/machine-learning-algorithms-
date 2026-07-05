@@ -161,12 +161,3 @@ If you'd like to contribute:
 
 ---
 
-## ⭐ Support
-
-If you find this repository useful, consider giving it a **Star ⭐** to support the project and help others discover it.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
