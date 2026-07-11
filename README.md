@@ -147,17 +147,3 @@ By exploring this repository, you will:
 * Build a strong ML portfolio project
 
 ---
-
-## 🤝 Contributions
-
-Contributions, suggestions, and improvements are always welcome.
-
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a Pull Request
-
----
-
