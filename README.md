@@ -145,7 +145,3 @@ By exploring this repository, you will:
 * Improve problem-solving and implementation skills
 * Gain practical experience with real datasets
 * Build a strong ML portfolio project
-
----
-
-
