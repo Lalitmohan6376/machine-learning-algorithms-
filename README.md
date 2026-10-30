@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Algorithms
+# 🚀 Machine Learning Algorithmss
 
 A comprehensive collection of fundamental **Machine Learning Algorithms** implemented from scratch and with standard Python libraries.
 
